@@ -1,0 +1,6 @@
+*.csv
+*venv/
+.env
+audio_transcription/
+contacts/
+__pycache__
